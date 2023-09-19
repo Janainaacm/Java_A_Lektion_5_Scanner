@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
         //Objects
         Scanner sc = new Scanner(System.in);
         Student benny = new Student();
@@ -28,3 +29,10 @@ public class Main {
 
     }
 }
+
+
+
+
+
+
+
